@@ -1,20 +1,107 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 🚀 Marjan Hasan - Developer Portfolio
 
-# Run and deploy your AI Studio app
+A modern, responsive developer portfolio built to showcase my skills, projects, and experience in web development.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/45f3defb-750d-4db7-bb64-04f005a62c90
+## 🌐 Live Demo
 
-## Run Locally
+👉 https://your-portfolio-link.com
 
-**Prerequisites:**  Node.js
+---
 
+## 🛠️ Tech Stack
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- ⚛️ React + TypeScript
+- 🎨 Tailwind CSS
+- ⚡ Vite
+- 🎯 Lucide Icons
+
+---
+
+## 📌 Features
+
+- ✨ Clean and modern UI
+- 📱 Fully responsive design
+- ⚡ Fast performance (Vite powered)
+- 🧭 Smooth scrolling navigation
+- 🧩 Modular and reusable components
+- 📂 Project showcase section
+- 🎓 Education & Certifications section
+
+---
+
+## 📁 Project Structure
+
+```
+src/
+│── App.tsx
+│── index.css
+│── main.tsx
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+```
+
+### 2. Navigate to project folder
+
+```bash
+cd your-repo-name
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Run development server
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🎯 Future Improvements
+
+- 🌙 Dark/Light mode toggle
+- 🧠 Blog section
+- 📬 Contact form with backend
+- 🌍 SEO optimization
+- 📊 Analytics integration
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
+- Email: [your-email@example.com](mailto:your-email@example.com)
+
+---
+
+## 📄 License
+
+This project is open-source and available under the MIT License.
+
+---
+
+## ⭐ Support
+
+If you like this project, feel free to give it a ⭐ on GitHub!
